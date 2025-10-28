@@ -13,8 +13,6 @@ A clean and elegant fashion shopping app concept designed for iPhone 14 Plus.
 - Figma
   
 
-### 📷 Preview
-![App Screens](./design.png)
 
 ---
 💖 Designed by [Achouri Chamla]
