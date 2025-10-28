@@ -1,6 +1,6 @@
 
-# 👗 Fashion App UI<img width="610" height="541" alt="Screenshot 2025-10-26 185856" src="https://github.com/user-attachments/assets/17d84d15-4ae9-4802-9d47-cd81c1f40403" />
-
+<img width="557" height="420" alt="app image" src="https://github.com/user-attachments/assets/1dc3ed87-bd3a-48ca-9642-76aac62debbe" />
+# Fashion App 
 
 A clean and elegant fashion shopping app concept designed for iPhone 14 Plus.
 
